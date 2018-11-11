@@ -1,6 +1,6 @@
 /* ========================================
  *
- * Copyright YOUR COMPANY, THE YEAR
+ * Copyright UTEC, 2018
  * All Rights Reserved
  * UNPUBLISHED, LICENSED SOFTWARE.
  *
